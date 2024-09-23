@@ -34,4 +34,4 @@ In the notebook, the following steps have been performed:
 ## How to Run the Notebook
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/deepjasani7/PRODIGY_DS_02

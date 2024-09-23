@@ -1,1 +1,1 @@
-# PRODIGY_DS_02
+![alt text](C:\Users\jasan\OneDrive\Desktop\task_2.png)
